@@ -1,0 +1,6 @@
+FEATURE 1
+=========
+- This is a separate feature
+- It may contain multiple commits
+
+And now it is done.
