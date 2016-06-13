@@ -1,3 +1,5 @@
 FEATURE 2
 =========
 - This is Bob's feature
+
+And now it is done.
