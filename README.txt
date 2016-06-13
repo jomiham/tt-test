@@ -8,3 +8,5 @@ Agenda:
 -> Branching strategies (git flow, etc)
 -> Merge vs. Rebase!
 -> Interactive rebase?
+-> Changing history
+	- change a commit message
