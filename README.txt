@@ -2,6 +2,6 @@ Teknisk Tisdag om GIT
 =====================
 
 Agenda:
-- Branching strategies
-- Merge vs. Rebase!
-- Interactive rebase?
+-> Branching strategies
+-> Merge vs. Rebase!
+-> Interactive rebase?
